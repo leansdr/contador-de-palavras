@@ -57,3 +57,20 @@ h2 {
   display: flex;
   justify-content: center;
 }
+
+@media screen and (max-width:425px) {
+  body{
+    align-items: center;
+  }
+  #container {
+    margin: 0px 2px;
+    height: 100vh;
+  }
+  #textarea{
+    margin: 10px;
+    width: 300px;
+  }
+  #container-buttons{
+    margin-top: 30px;
+  }
+}
