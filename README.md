@@ -5,5 +5,5 @@ Projeto desenvolvido para aprendizado em Javascript
 - [x] CSS
 - [x] Javascript
 ## Como excutar o projeto
-Baixe o projeto utilizando o git clone
-Execute o arquivo index.html
+* Baixe o projeto utilizando o git clone </br>
+* Execute o arquivo index.html
